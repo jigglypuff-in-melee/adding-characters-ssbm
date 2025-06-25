@@ -1,10 +1,4 @@
-# Akaneia Build
 
-The Akaneia (/a.ka.ne.i.a/) build enhances Super Smash Bros. Melee by adding new fighters, stages, music, trophies, game modes, and much more—while keeping all the original content intact.
-
-*Powered by the [m-ex](https://github.com/akaneia/m-ex) system.*
-
-## Getting Started
 
 ### Patching the ISO 
 
